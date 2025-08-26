@@ -8961,15 +8961,15 @@
 		(dnp no)
 		(uuid "d7387b4e-6008-4883-bbfc-5579aac768ce")
 		(property "Reference" "F1"
-			(at 249.428 153.67 0)
+			(at 247.396 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1A"
-			(at 249.428 151.13 0)
+		(property "Value" "250mA"
+			(at 247.396 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
