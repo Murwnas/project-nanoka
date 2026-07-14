@@ -35,4 +35,4 @@ Ideas for the future:
 2. Switch from PWM audio to I2C audio for a cleaner signal.
 3. Maybe re-design with SMD components to make this signafinantly smaller and elegant (but the THT components make it easier to assemble).
 
-I have not yet re-produced this, so functionality and issues are unknown for this version.
+This was produced last summer. It worked (and still does to this day). The only issue it has is audio popping during start and stop of playback.
