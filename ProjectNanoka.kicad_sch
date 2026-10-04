@@ -8035,7 +8035,7 @@
 		(uuid "fe8f2f5e-da28-459f-8c47-e303b5cacf0b")
 	)
 	(global_label "+5V"
-		(shape input)
+		(shape output)
 		(at 151.13 162.56 90)
 		(fields_autoplaced yes)
 		(effects
