@@ -14,7 +14,7 @@ This version has several improvements over v1.2:
 
 Consequently, the SMD components makes this much harder to hand-solder than the previous version. The old version is still capable enough (deployed in a real environment right now) so if soldering skills and/or equipment is limited, the older version might be preferable over this. 
 
-## Real reproduction (JLCPCB + DigiKey)
+## Real reproduction (Aivon + DigiKey)
 ![Picture of real board](/assets/prod.webp)
 
 Known issues:
